@@ -8,3 +8,6 @@ https://cursos.alura.com.br/certificate/07bccf10-564c-42ed-9784-395b5a1005df
 
 3 - DESIGN THINKING: CONCRETIZANDO IDEIAS
 https://cursos.alura.com.br/certificate/7651d05b-85a0-4d98-a4b8-cc9fd152be6f
+
+4 - SWIFT PARTE 3: GESTURES, DAO E O OPTIONAL CHAINING
+https://cursos.alura.com.br/certificate/29694752-a953-4957-9a07-613947250eb7
