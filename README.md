@@ -14,3 +14,6 @@ https://cursos.alura.com.br/certificate/29694752-a953-4957-9a07-613947250eb7
 
 5 - IOS LAYOUT PARTE 1: COMEÇANDO COM TELAS RESPONSIVAS
 https://cursos.alura.com.br/certificate/b98a2b7a-04e4-42d1-9f58-985614f69d5b
+
+6 - IOS LAYOUT PARTE 2: MAIS RECURSOS PARA CRIAR TELAS RESPONSIVAS
+https://cursos.alura.com.br/certificate/074ff977-d15c-459f-b009-e3ceca2fd302
