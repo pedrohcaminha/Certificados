@@ -17,3 +17,8 @@ https://cursos.alura.com.br/certificate/b98a2b7a-04e4-42d1-9f58-985614f69d5b
 
 6 - IOS LAYOUT PARTE 2: MAIS RECURSOS PARA CRIAR TELAS RESPONSIVAS
 https://cursos.alura.com.br/certificate/074ff977-d15c-459f-b009-e3ceca2fd302
+
+7 - 
+
+8 - PYTHON PANDAS: TRATANDO E ANALISANDO DADOS
+https://cursos.alura.com.br/certificate/42a998d0-68a9-48f4-bd12-fdf77fcb453e
