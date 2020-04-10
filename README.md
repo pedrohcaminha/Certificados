@@ -23,3 +23,9 @@ https://cursos.alura.com.br/certificate/142790af-e57b-4da5-898e-91115bb1bd30
 
 8 - PYTHON PANDAS: TRATANDO E ANALISANDO DADOS
 https://cursos.alura.com.br/certificate/42a998d0-68a9-48f4-bd12-fdf77fcb453e
+
+9 - DATA ANALYSIS: INTRODUÇÃO A SÉRIES TEMPORAIS E ANÁLISES
+https://cursos.alura.com.br/certificate/1979e93f-92a0-419c-ac52-24d1f73e1d98
+
+10 - REGRESSÃO LINEAR: TESTANDO RELAÇÕES E PREVENDO RESULTADOS
+https://cursos.alura.com.br/certificate/765d6f37-d01b-4a9e-ba5c-5e6510ad64e8
