@@ -32,3 +32,7 @@ https://cursos.alura.com.br/certificate/765d6f37-d01b-4a9e-ba5c-5e6510ad64e8
 
 11 - REGRESSÃO LINEAR: TÉCNICAS AVANÇADAS DE MODELAGEM
 https://cursos.alura.com.br/certificate/3596142e-23ab-406a-9962-c780025e037f
+
+12 - MACHINE LEARNING: INTRODUÇÃO A CLASSIFICAÇÃO COM SKLEARN
+https://cursos.alura.com.br/certificate/943f0bb0-c3fe-4efc-8d8c-14aa9947a050
+
