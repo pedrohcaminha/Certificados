@@ -36,3 +36,5 @@ https://cursos.alura.com.br/certificate/3596142e-23ab-406a-9962-c780025e037f
 12 - MACHINE LEARNING: INTRODUÇÃO A CLASSIFICAÇÃO COM SKLEARN
 https://cursos.alura.com.br/certificate/943f0bb0-c3fe-4efc-8d8c-14aa9947a050
 
+13 - MACHINE LEARNING: INTRODUÇÃO A ALGORITMOS NÃO SUPERVISIONADOS
+https://cursos.alura.com.br/certificate/38b1f28f-01b7-4100-9af5-5453451c4fbb
