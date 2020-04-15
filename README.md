@@ -38,3 +38,6 @@ https://cursos.alura.com.br/certificate/943f0bb0-c3fe-4efc-8d8c-14aa9947a050
 
 13 - MACHINE LEARNING: INTRODUÇÃO A ALGORITMOS NÃO SUPERVISIONADOS
 https://cursos.alura.com.br/certificate/38b1f28f-01b7-4100-9af5-5453451c4fbb
+
+14 - LINGUAGEM NATURAL PARTE 1: INTRODUÇÃO A NLP COM ANÁLISE DE SENTIMENTO
+https://cursos.alura.com.br/certificate/00104adf-d037-438a-b041-7c7d3e019769
