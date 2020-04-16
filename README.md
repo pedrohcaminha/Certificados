@@ -41,3 +41,6 @@ https://cursos.alura.com.br/certificate/38b1f28f-01b7-4100-9af5-5453451c4fbb
 
 14 - LINGUAGEM NATURAL PARTE 1: INTRODUÇÃO A NLP COM ANÁLISE DE SENTIMENTO
 https://cursos.alura.com.br/certificate/00104adf-d037-438a-b041-7c7d3e019769
+
+15 - LINGUAGEM NATURAL PARTE 2: CONTINUANDO COM A ANÁLISE DE SENTIMENTO
+https://cursos.alura.com.br/certificate/b27b9e12-9c41-4b89-af38-4eb7563ed19b
