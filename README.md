@@ -44,3 +44,12 @@ https://cursos.alura.com.br/certificate/00104adf-d037-438a-b041-7c7d3e019769
 
 15 - LINGUAGEM NATURAL PARTE 2: CONTINUANDO COM A ANÁLISE DE SENTIMENTO
 https://cursos.alura.com.br/certificate/b27b9e12-9c41-4b89-af38-4eb7563ed19b
+
+16 - CLASSIFICAÇÃO MULTILABEL DE TEXTOS: MÚLTIPLOS CONTEXTOS EM NLP
+https://cursos.alura.com.br/certificate/0d1256ef-f57b-40d6-ae7b-e602e1b2d6c9
+
+17 - LEARNING PARTE 1: INTRODUÇÃO COM KERAS
+https://cursos.alura.com.br/certificate/53dc7705-a936-480d-868c-8cc86db653ea
+
+18 - MACHINE LEARNING: INTRO A SISTEMAS DE RECOMENDAÇÃO EM PYTHON
+https://cursos.alura.com.br/certificate/9c5b6f79-2cae-4ce2-bed4-d6d3f435a5f4
