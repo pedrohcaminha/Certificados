@@ -53,3 +53,6 @@ https://cursos.alura.com.br/certificate/53dc7705-a936-480d-868c-8cc86db653ea
 
 18 - MACHINE LEARNING: INTRO A SISTEMAS DE RECOMENDAÇÃO EM PYTHON
 https://cursos.alura.com.br/certificate/9c5b6f79-2cae-4ce2-bed4-d6d3f435a5f4
+
+19 - REGRESSÃO: IMPLEMENTE UMA REDE NEURAL COM NUMPY
+https://cursos.alura.com.br/certificate/f672002c-0a9c-46b2-a8fc-a04b72996df4
