@@ -56,3 +56,12 @@ https://cursos.alura.com.br/certificate/9c5b6f79-2cae-4ce2-bed4-d6d3f435a5f4
 
 19 - REGRESSÃO: IMPLEMENTE UMA REDE NEURAL COM NUMPY
 https://cursos.alura.com.br/certificate/f672002c-0a9c-46b2-a8fc-a04b72996df4
+
+20 - DATA VISUALIZATION PARTE 1: INTRODUÇÃO AO DESIGN DE GRÁFICOS
+https://cursos.alura.com.br/certificate/bdaec5cf-a3fb-4473-9cbd-102b2ec69ec2
+
+21 - DATA VISUALIZATION PARTE 2: ESCOLHENDO O MELHOR GRÁFICO
+https://cursos.alura.com.br/certificate/55b0c134-d24f-4398-bbe3-10821d4be9ad
+
+22 - ESTATÍSTICA COM PYTHON PARTE 1: FREQUÊNCIAS E MEDIDAS
+https://cursos.alura.com.br/certificate/cafbe265-65be-48b9-a67b-037ffe05ce76
