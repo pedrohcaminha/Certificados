@@ -1,5 +1,7 @@
 # Certificados
 
+Alura:
+
 1 - SWIFT PARTE 1: DESENVOLVENDO PARA IOS NO XCODE
 https://cursos.alura.com.br/certificate/bc665ce9-9357-41cc-a35a-5b7c3e346b42
 
@@ -65,3 +67,12 @@ https://cursos.alura.com.br/certificate/55b0c134-d24f-4398-bbe3-10821d4be9ad
 
 22 - ESTATÍSTICA COM PYTHON PARTE 1: FREQUÊNCIAS E MEDIDAS
 https://cursos.alura.com.br/certificate/cafbe265-65be-48b9-a67b-037ffe05ce76
+
+23 - ESTATÍSTICA COM PYTHON PARTE 2: PROBABILIDADE E AMOSTRAGEM
+https://cursos.alura.com.br/certificate/f07700c8-f894-4c86-b112-9051d809254f
+
+24 - DATA SCIENCE: INTRODUÇÃO A TESTES ESTATÍSTICOS COM PYTHON
+https://cursos.alura.com.br/certificate/b9df6216-0b31-4901-8e25-4ea9319d647a
+
+25 - FORMAÇÃO DATA SCIENCE
+https://cursos.alura.com.br/degree/certificate/bdfd9000-d32d-4fc4-ae11-4b9bd6bb853f
