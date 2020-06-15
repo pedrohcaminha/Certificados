@@ -76,3 +76,21 @@ https://cursos.alura.com.br/certificate/b9df6216-0b31-4901-8e25-4ea9319d647a
 
 25 - FORMAÇÃO DATA SCIENCE
 https://cursos.alura.com.br/degree/certificate/bdfd9000-d32d-4fc4-ae11-4b9bd6bb853f
+
+26 - GEOPANDAS PARTE 1: TRABALHANDO COM DADOS GEOESPACIAIS
+https://cursos.alura.com.br/certificate/ab71b13e-0cfa-4ef4-9c6d-dcbacc859717
+
+27 - MACHINE LEARNING: VALIDAÇÃO DE MODELOS
+https://cursos.alura.com.br/certificate/501ea29f-790c-4f61-b92c-b761479964de
+
+28 - MACHINE LEARNING PARTE 1: OTIMIZAÇÃO DE MODELOS ATRAVÉS DE HIPERPARÂMETROS
+https://cursos.alura.com.br/certificate/cf058679-70bd-4d5b-bfb7-72355c586cc5
+
+29 - MACHINE LEARNING PARTE 2: OTIMIZAÇÃO COM EXPLORAÇÃO ALEATÓRIA
+https://cursos.alura.com.br/certificate/e3935084-d70f-4635-80e4-71bcdbf97ecd
+
+30 - FORMAÇÃO MACHINE LEARNING
+https://cursos.alura.com.br/degree/certificate/f8326769-fe74-4a18-9011-b779512b0363
+
+
+
